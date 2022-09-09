@@ -1,0 +1,1 @@
+This is sample to use c++ code in android application using NDK and JNI.
